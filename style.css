@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: #1E8DBD;
+     font-size: 2rem;
+    
+    
+}
+h1:hover{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-decoration:underline;
+    color: tomato;
+
+}
+
+/*footer*/
+.footer
+{ margin-top: 10px;
+    height: 30px;
+    color: white;
+    background-color: #1E8DBD;
+}
+
+
+  
